@@ -2,7 +2,7 @@
 
 This work was developled by Gwanghyun (Gina) Jung, David Chong, Sergii Deshunin
 
-### Project Aim : Develop models to classify licit and illicit transactions in bitcoin network
+__Project Aim__ : Develop models to classify licit and illicit transactions in bitcoin network
 
 
 - Data Set : https://www.kaggle.com/ellipticco/elliptic-data-set
