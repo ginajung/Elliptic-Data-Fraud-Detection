@@ -1,4 +1,4 @@
-# Elliptic data (Bitcoin) Fraud Prediction
+# Elliptic data (Bitcoin) Fraud Prediction : ML/DL
 
 This work was developled by Gwanghyun (Gina) Jung, David Chong, Sergii Deshunin
 
